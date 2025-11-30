@@ -1,6 +1,5 @@
 # 💫 About Me:
-♡ Hi there, I’m Deanna Lara! ♡  <br>🌸BSCS Student | Aspiring Software Developer 💻  <br>🌸Passionate about tech and continuous learning.  <br>🌸I enjoy experimenting with code, solving problems, and improving my skills.  <br>🌸Excited to share my learning journey and future projects here!
-
+♡ Hi there, I’m Deanna Lara! ♡  <br>🌸BSCS Student | Aspiring Software Developer 💻  <br>🌸Passionate about tech and continuous learning.  <br>🌸I enjoy experimenting with code, solving problems, and improving my skills.  <br>🌸Excited to share my learning journey and future projects here! <br><br>🌱 Currently learning: C Programming <br>🛠️ Currently Working on: My first C projects  
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/deannalara.bulaclac)
