@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌸Passionate about tech and continuous learning.  <br>🌸I enjoy experimenting with code, solving problems, and improving my skills.  <br>🌸Excited to share my learning journey and future projects here! <br><br>🌱 Currently learning: Python 
+🌸Passionate about tech and continuous learning.  <br>🌸I enjoy experimenting with code, solving problems, and improving my skills.  <br>🌸Excited to share my learning journey and future projects here! <br><br> 
 
 
 ## 🌐 Socials:
