@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a second-year computer science student, passionate about coding, web development and UI/UX. I work mainly with Python and Java, and I'm diving into full-stack development. Currently exploring UI/UX design and full-stack development.<br><br> 
+I'm a second-year computer science student, passionate about coding and web development. I work mainly with Python and Java. Currently exploring UI/UX design and full-stack development.<br><br> 
 
 
 # 💻 Tech Stack:
