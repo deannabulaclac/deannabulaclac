@@ -10,6 +10,4 @@ I'm a second-year computer science student, passionate about coding, web develop
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=deannabulaclac&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=deannabulaclac&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
